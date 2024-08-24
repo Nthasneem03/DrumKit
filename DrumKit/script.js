@@ -9,7 +9,10 @@ for (let i = 0; i < drumLength; i++) {
     });
 }
 
-
+document.addEventListener("keydown", function(e) {
+    makeNoise(e.key.toLowerCase());
+    animateButton(e.key.toLowerCase());
+});
 
 function makeNoise(key) {
     switch(key){
