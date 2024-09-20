@@ -1,7 +1,11 @@
 # DrumKit
 A virtual drum kit using HTML, CSS, and JavaScript where you can play sounds by clicking the buttons or keys.
 
+## Languages Used
 
+- HTML: For the structure of the web page.
+- CSS: For styling the element.
+- JavaScript: For the logic and DOM manipulation.
 
 ## Features
 
